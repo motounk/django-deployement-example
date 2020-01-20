@@ -26,7 +26,7 @@ SECRET_KEY = 'n$x3od9y3vk_znliv2o22d@ce!bsvrd#t-d$+ni)=at3dtnm*+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['motounk.pythonanywhere.com']
 
 
 # Application definition
